@@ -1,2 +1,2 @@
 # Codeforces-Solutions
-Yes
+Solutions to a few problems from Codeforces. Self-Explanatory.
